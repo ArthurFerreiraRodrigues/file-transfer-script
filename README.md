@@ -26,7 +26,7 @@
     ```console
     sudo ufw allow ssh
     ```
-4. Discover server's IP
+4. Discover server's IP (local)
     ```console
     hostname -I
     ```
